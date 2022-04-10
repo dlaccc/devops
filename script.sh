@@ -21,4 +21,11 @@ echo "2. Create a group"
 echo "3. Create a file"
 echo "4. Create a folder"
 echo "5. Create a webserver"
+read option
+echo "You have selected option $option"
+echo
+echo
+sleep 3
+echo" I will go ahead and make $option for you"
 #Write a case statement that will perform any action that the user chooses
+
