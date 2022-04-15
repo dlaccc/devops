@@ -26,6 +26,6 @@ echo "You have selected option $option"
 echo
 echo
 sleep 3
-echo" I will go ahead and make $option for you"
+echo "I will go ahead and make $option for you"
 #Write a case statement that will perform any action that the user chooses
 
